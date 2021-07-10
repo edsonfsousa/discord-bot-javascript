@@ -12,7 +12,7 @@ module.exports.run = async (client, message, args) => {
 
   const embed = new Discord.MessageEmbed()
     .setTitle(`Tempo de atividade 🕰️`)
-    .setThumbnail("https://imgur.com/WZMylbw.gif")
+    .setThumbnail("https://media2.giphy.com/media/7d8tndK1hVRNYtOWTJ/giphy.gif?cid=790b76114f2a2524019ef13e592a04a83787dfbcf12829a2&rid=giphy.gif&ct=g")
     .setColor("#FF0000")
     .setDescription(`**Estou online há:**\n${uptime}`)
 
