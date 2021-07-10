@@ -38,10 +38,6 @@ exports.run = async (client, message, args) => {
           name: '`help`',
           value: 'Trás uma lista de comandos pra te ajudar.'
         },
-        {
-        name: '`status`',
-        value: 'Mostra o status.'
-        },
 				{
         name: '`uptime`',
         value: 'Mostra o tempo online da RD.'
