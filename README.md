@@ -42,4 +42,4 @@ Bot criado com JavaScript e utilizando o node, para comandos diversos no Discord
     rd!emoji
 > Faça a RD enviar algum emoji.
 
-See [Configuration Reference](https://discord.js.org/#/).
+Veja [Referência de configuração](https://discord.js.org/#/).
