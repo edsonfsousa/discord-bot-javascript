@@ -1,45 +1,45 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/edsonfsousa/Biblioteca)
 # discord_bot 🤖
-Bot criado com JavaScript e utilizando o node, para comandos diversos no Discord.
+Bot created with JavaScript and using node, for various commands in Discord.
 
 ## Lista de comandos
 ### Comandos gerais:
 ---
 
     rd!help
-> Trás uma lista de comandos pra te ajudar.
+> Brings a list of commands to help you.
 
     rd!uptime
-> Mostra o tempo online da RD.
+> Shows RD's online time.
 
 ### Comandos de moderação:
 ---
 
     rd!idea
-> Permite enviar sugestões.
+> Allows you to send suggestions.
 
     rd!clear
-> Te permite limpar canais.
+> Allows you to clear channels.
 
     rd!ping
-> Consulte o ping da RD e do seu servidor.
+> See the ping of RD and your server.
 
 ### Comandos de diversão:
 ---
 
     rd!kiss
-> Te permite beijar um membro do servidor.
+> Allows you to kiss a server member.
 
      rd!say
-> Faz com que a RD digite o que você digitar antes.
+> Makes RD type what you type before.
 
     rd!coinflip
-> Brincadeira do cara ou coroa com a RD.
+> The game of heads or tails with the RD.
 
     rd!avatar
-> Mostra seu avatar no Discord.
+> Show your avatar on Discord.
 
     rd!emoji
-> Faça a RD enviar algum emoji.
+> Have RD send you some emoji.
 
-Veja [Referência de configuração](https://discord.js.org/#/).
+Look this [Configuration Reference](https://discord.js.org/#/).
