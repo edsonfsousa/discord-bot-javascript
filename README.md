@@ -12,7 +12,7 @@ Bot created with JavaScript and using node, for various commands in Discord.
     rd!uptime
 > Shows RD's online time.
 
-### Comandos de moderação:
+### Moderation Commands:
 ---
 
     rd!idea
@@ -24,7 +24,7 @@ Bot created with JavaScript and using node, for various commands in Discord.
     rd!ping
 > See the ping of RD and your server.
 
-### Comandos de diversão:
+### Fun commands:
 ---
 
     rd!kiss
