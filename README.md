@@ -2,8 +2,8 @@
 # discord_bot 🤖
 Bot created with JavaScript and using node, for various commands in Discord.
 
-## Lista de comandos
-### Comandos gerais:
+## list of commands
+### General commands:
 ---
 
     rd!help
